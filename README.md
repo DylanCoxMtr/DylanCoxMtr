@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-```Bash
-=======
 ``` Bash
 >>>>>>> 52e1062 (fix)
 # Hi ther, I'm Dylan  
