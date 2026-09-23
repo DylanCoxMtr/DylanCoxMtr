@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "The Dog Is A Gentleman; I Hope To Go To His Heaven Not Man'S." — *Mark Twain*
+> "Most Folks Are As Happy As They Make Up Their Minds To Be." — *Abraham Lincoln*
 <!-- QUOTE_END -->
