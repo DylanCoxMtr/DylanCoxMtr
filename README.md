@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Most Folks Are As Happy As They Make Up Their Minds To Be." — *Abraham Lincoln*
+> "Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win." — *Stephen King*
 <!-- QUOTE_END -->
