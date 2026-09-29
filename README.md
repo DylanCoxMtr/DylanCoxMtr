@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Everything That We See Is A Shadow Cast By That Which We Do Not See." — *Martin Luther King, Jr.*
+> "The Truth. It Is A Beautiful And Terrible Thing, And Must Therefore Be Treated With Great Caution." — *J. K. Rowling*
 <!-- QUOTE_END -->
