@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "No sanction can stand against ignited minds." — *Abdul Kalam*
+> "A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
