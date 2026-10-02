@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything." — *Friedrich Nietzsche*
+> "The Service you do for others is the rent you pay for your room here on Earth." — *Muhammad Ali*
 <!-- QUOTE_END -->
