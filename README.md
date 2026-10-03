@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "The Service you do for others is the rent you pay for your room here on Earth." — *Muhammad Ali*
+> "God blesses him who helps his brother." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
