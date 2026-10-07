@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "A man is hid under his tongue." — *Ali ibn Abi Talib (R.A)*
+> "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere." — *Carl Sagan*
 <!-- QUOTE_END -->
