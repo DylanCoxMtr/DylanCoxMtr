@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "A heart filled with love is like a phoenix that no cage can imprison." — *Rumi*
+> "To Be A Christian Without Prayer Is No More Possible Than To Be Alive Without Breathing." — *Martin Luther King, Jr.*
 <!-- QUOTE_END -->
