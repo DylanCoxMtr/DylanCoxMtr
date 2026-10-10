@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "To Be A Christian Without Prayer Is No More Possible Than To Be Alive Without Breathing." — *Martin Luther King, Jr.*
+> "When The Going Gets Weird, The Weird Turn Pro." — *Hunter S. Thompson*
 <!-- QUOTE_END -->
