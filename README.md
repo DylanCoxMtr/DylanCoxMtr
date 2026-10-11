@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "When The Going Gets Weird, The Weird Turn Pro." — *Hunter S. Thompson*
+> "When you advise any person you should be guided by the fear of God." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
