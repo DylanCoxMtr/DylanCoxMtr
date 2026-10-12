@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "When you advise any person you should be guided by the fear of God." — *Abu Bakr (R.A)*
+> "Our greatest strength lies in the gentleness and tenderness of our heart." — *Rumi*
 <!-- QUOTE_END -->
