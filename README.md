@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Our greatest strength lies in the gentleness and tenderness of our heart." — *Rumi*
+> "The Best Way To Find Out If You Can Trust Somebody Is To Trust Them." — *Ernest Hemingway*
 <!-- QUOTE_END -->
