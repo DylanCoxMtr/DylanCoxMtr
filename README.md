@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water." — *Mark Twain*
+> "Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — *Ayn Rand*
 <!-- QUOTE_END -->
