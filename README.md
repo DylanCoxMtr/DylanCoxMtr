@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — *Ayn Rand*
+> "A man's worth depends upon the nobility of his aspirations." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
