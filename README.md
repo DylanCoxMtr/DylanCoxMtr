@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "A man's worth depends upon the nobility of his aspirations." — *Ali ibn Abi Talib (R.A)*
+> "The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter." — *Paulo Coelho*
 <!-- QUOTE_END -->
