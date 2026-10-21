@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." — *Rumi*
+> "The person I like most is the one who points out my defects." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
