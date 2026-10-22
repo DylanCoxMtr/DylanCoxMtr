@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "The person I like most is the one who points out my defects." — *Umar ibn Al-Khattāb (R.A)*
+> "If You Can'T Make It Good, At Least Make It Look Good." — *Bill Gates*
 <!-- QUOTE_END -->
