@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "If You Can'T Make It Good, At Least Make It Look Good." — *Bill Gates*
+> "If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee." — *Abraham Lincoln*
 <!-- QUOTE_END -->
