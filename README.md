@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Safety lies in silence. It is easier to rectify what you miss by silence, than to secure what you lose by speaking." — *Ali ibn Abi Talib (R.A)*
+> "Everyone has been made for some particular work, and the desire for that work has been put in every heart." — *Rumi*
 <!-- QUOTE_END -->
