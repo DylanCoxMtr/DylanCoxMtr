@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Everyone has been made for some particular work, and the desire for that work has been put in every heart." — *Rumi*
+> "You are not just the drop in the ocean. You are the mighty ocean in the drop." — *Rumi*
 <!-- QUOTE_END -->
