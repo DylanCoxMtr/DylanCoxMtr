@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Israel, As The Jewish State, Must Disappear From The Map." — *Ahmed Yassin*
+> "Only last week I murdered a rock, injured a stone and hospitalized a brick." — *Muhammad Ali*
 <!-- QUOTE_END -->
