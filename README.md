@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "You cannot change your future, but you can change your habits, and surely your habits will change your future." — *Abdul Kalam*
+> "Not Life, But Good Life, Is To Be Chiefly Valued." — *Socrates*
 <!-- QUOTE_END -->
