@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Muslims should live like brothers." — *Abu Bakr (R.A)*
+> "Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — *Ellen DeGeneres*
 <!-- QUOTE_END -->
