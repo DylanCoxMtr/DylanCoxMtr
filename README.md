@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Divine Life Is In Touch With The Whole Universe On The Analogy Of The Soul'S Contact With The Body." — *Muhammed Iqbal*
+> "A wise man first thinks and then speaks and a fool speaks first and then thinks." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
