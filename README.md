@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "The Public Is Merely A Multiplied "Me."" — *Mark Twain*
+> "To succeed in your mission, you must have single-minded devotion to your goal." — *Abdul Kalam*
 <!-- QUOTE_END -->
