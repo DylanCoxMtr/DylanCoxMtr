@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "To succeed in your mission, you must have single-minded devotion to your goal." — *Abdul Kalam*
+> "Know thyself, and thou shalt know God." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
