@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Like your body your mind also gets tired so refresh it by wise sayings." — *Ali ibn Abi Talib (R.A)*
+> "The vision of the eye is limited; the vision of the heart transcends all barriers of time and space." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
