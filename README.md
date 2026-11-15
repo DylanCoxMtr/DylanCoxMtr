@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Nothing Will Work Unless You Do." — *Maya Angelou*
+> "Dogs Never Bite Me. Just Humans." — *Marilyn Monroe*
 <!-- QUOTE_END -->
