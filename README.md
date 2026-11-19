@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Pray, And Let God Worry." — *Martin Luther*
+> "He Who Avoids Complaint Invites Happiness." — *Abu Bakr*
 <!-- QUOTE_END -->
