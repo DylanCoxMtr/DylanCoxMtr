@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "He Who Avoids Complaint Invites Happiness." — *Abu Bakr*
+> "No sanction can stand against ignited minds." — *Abdul Kalam*
 <!-- QUOTE_END -->
