@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "No sanction can stand against ignited minds." — *Abdul Kalam*
+> "We Make War That We May Live In Peace." — *Aristotle*
 <!-- QUOTE_END -->
