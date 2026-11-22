@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "We Make War That We May Live In Peace." — *Aristotle*
+> "Silence is the best reply to a fool." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
