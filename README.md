@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "Silence is the best reply to a fool." — *Ali ibn Abi Talib (R.A)*
+> "Geologists Have A Saying - Rocks Remember." — *Neil Armstrong*
 <!-- QUOTE_END -->
