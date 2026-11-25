@@ -5,5 +5,5 @@
 #!/usr/bin/env bash
 "Building, breaking, and securing networks & systems."
 <!-- QUOTE_START -->
-> "It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge." — *Albert Einstein*
+> "Man Will Do Many Things To Get Himself Loved, He Will Do All Things To Get Himself Envied." — *Mark Twain*
 <!-- QUOTE_END -->
